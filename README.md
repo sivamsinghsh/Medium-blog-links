@@ -11,3 +11,6 @@ In this repository i have stored the link and information about all the article 
 
 
 ## Unlocking the Power of Natural Language Processing: A Guide on How to Use NLP
+
+## Data Science: A Comprehensive Guide to Terms, Techniques and Concepts
+
